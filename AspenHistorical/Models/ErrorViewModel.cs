@@ -1,6 +1,6 @@
 using System;
 
-namespace MvcMovie.Models
+namespace AspenHistorical.Models
 {
     public class ErrorViewModel
     {
