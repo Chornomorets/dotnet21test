@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using AspenHistorical.Models;
+using AltriaHistorical.Models;
 
-namespace AspenHistorical.Controllers
+namespace AltriaHistorical.Controllers
 {
     public class HomeController : Controller
     {

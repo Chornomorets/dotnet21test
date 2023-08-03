@@ -1,6 +1,6 @@
 using System;
 
-namespace AspenHistorical.Models
+namespace AltriaHistorical.Models
 {
     public class ErrorViewModel
     {
